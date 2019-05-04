@@ -1,6 +1,6 @@
 # Pagina Logi UI
 
-A new Flutter project.
+A new Flutter project by ManuelCode.
 
 ## Getting Started
 
